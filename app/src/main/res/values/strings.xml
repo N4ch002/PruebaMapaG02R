@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">PruebaMapaG02</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="title_activity_splashcreen">SplashcreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
